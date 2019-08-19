@@ -1,1 +1,2 @@
-THIS IS my DEMO
+# GIT Local Repo
+### This is the first repo for my git project 
